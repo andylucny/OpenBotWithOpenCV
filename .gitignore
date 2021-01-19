@@ -83,3 +83,10 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# local stuff
+openbot_v1_nano/
+pytorch_mobilenet.onnx.png
+android-procedure.pdf
+navod.txt
+link.txt
